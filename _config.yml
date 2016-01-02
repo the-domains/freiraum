@@ -1,7 +1,7 @@
 name: Freiraum
 favicon: null
-layout_spectrum: 0.8595352792181075
-typography_spectrum: 0.25397649221122265
+layout_spectrum: 0
+typography_spectrum: 0.28656
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.9838583474047482
-  lightness: 0.07516836863942444
-  saturation: 0.7606274962890893
-  rhythmicContrast: 0.8323550762142986
+    - '#c7d5ef'
+    - '#004185'
+    - '#57585b'
+    - '#6990bc'
+    - '#98b2d5'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
